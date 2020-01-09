@@ -218,7 +218,7 @@ dl dd{
         margin: 0px;}
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1000px){
 }
 
 @media only screen and (max-width: 480px){
@@ -234,7 +234,7 @@ dl dd{
         display:none}
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 750px){
 }
 
 @media screen and (max-width: 768px){
@@ -697,7 +697,7 @@ hr{
     font-weight:bold;
     text-transform:uppercase;
     font-size:80%;
-    color:#2980B9;
+    color:#66cc;
     white-space:nowrap}
 
 #table-of-contents ul{
